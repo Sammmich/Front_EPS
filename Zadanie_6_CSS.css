@@ -1,0 +1,75 @@
+.block {
+    width: 550px; 
+    height: 400px;
+    background-color: rgba(220, 204, 160, 0.825);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .name {
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 30px;
+    margin-left: 70px;
+  }
+  
+  .block1 {
+    display: flex;
+    gap: 5px; 
+    justify-content: center;
+  }
+  
+  
+  .block2 {
+    width: 30%;
+    height: 80%;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; 
+  }
+  
+  
+  .block3 {
+    width: 100%;
+    height: 150px;
+    background-image: url(https://uazbuka.ru/engine/img/ZMZ40210_1.jpg); 
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+  }
+  .block4 {
+    width: 100%;
+    height: 150px;
+    background-image: url(https://lh3.googleusercontent.com/proxy/PNd-K1ttsFYKxa2VM9358bg_FR0dRovBXCATGoBeLbUUV1q1sKtXw5Y31sgMW61sFPwEOBfuD0fpsB33S6Ub8usUHS9LZMslX_vVvQ); 
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+  }
+  .block5 {
+    width: 100%;
+    height: 150px;
+    background-image: url(https://sun9-55.userapi.com/s/v1/if2/eDCSpG4zBn3clFDmAqtT8aP-0T_yI47O8UMBDWkRjs5DNi4oE2YclIzfjfs3PC6kTJo__nvVvNZ93B-lRjvGV8mQ.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,784x441&from=bu&u=LgHVHblv9rIOO3sPiRtGHkCBeobrYb5shcFFbf4gEeU&cs=604x340); 
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+  }
+  
+  
+  .button {
+    width: 100%;
+    background-color: rgb(217, 217, 217);
+    color: rgb(0, 0, 0);
+    padding: 10px 0;
+    border: none;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+  }
