@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700;900&display=swap');
+.orange{
+    color: rgb(255, 179, 0);
+    
+}
+.lime {
+	color:rgb(0, 128, 109);
+}
+.block{
+  text-decoration: underline solid red;
+	font-size: 25px;
+} 
+#unicalID{
+	color:rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+#regularID{
+	color:rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.string{
+    text-decoration: line-through solid rgb(55, 0, 255);
+  } 
+  
